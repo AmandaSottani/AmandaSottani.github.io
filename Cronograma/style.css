@@ -1,0 +1,31 @@
+body {
+  width:80%;
+  height: 50px;
+  margin: 15px auto;
+  font-family:'Courier New', Courier, monospace;
+  background-color: ligthyellow;
+}
+h1{
+  text-align: center;
+  font-weight:normal;
+}
+
+table {
+  position: absolute;
+  width: 80%;
+  border-collapse: collapse;
+  top: 90px;
+}
+
+td,th,tr{
+  border: 1px solid rgb(221, 213, 203);
+}
+
+th{
+  background-color: rgb(255, 211, 168);
+  font-weight:normal;
+}
+
+td{
+  background-color: ligthyellow;
+}
